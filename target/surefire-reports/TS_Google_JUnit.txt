@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TS_Google_JUnit
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 43.49 s <<< FAILURE! -- in TS_Google_JUnit
+TS_Google_JUnit.tc_google_search_for_covid -- Time elapsed: 15.68 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: [Fail] - Validated locator: '//*[name()='svg' and @id='bLogo']' does not exist.
+	at TS_Google_JUnit.tc_google_search_for_covid(TS_Google_JUnit.java:135)
+
+TS_Google_JUnit.tc_bing_search_for_netflix -- Time elapsed: 17.45 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: [Fail] - Tried to enter text into locator: '//textarea[@name='q']' but locator not found. Check if locator changed or missing?
+	at TS_Google_JUnit.tc_bing_search_for_netflix(TS_Google_JUnit.java:121)
+

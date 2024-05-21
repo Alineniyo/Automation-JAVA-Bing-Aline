@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Mon May 20 17:00:15 CAT 2024","Mon May 20 17:00:32 CAT 2024","17448","","TS_Google_JUnit","","TS_Google_JUnit","tc_bing_search_for_netflix","TC - Bing - Search for Netflix",""
+"failed","Mon May 20 16:59:54 CAT 2024","Mon May 20 17:00:10 CAT 2024","15628","","TS_Google_JUnit","","TS_Google_JUnit","tc_google_search_for_covid","TC - Google - Search for Covid-19",""

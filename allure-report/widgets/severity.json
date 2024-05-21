@@ -1,0 +1,1 @@
+[{"uid":"42fa88aa024ae976","name":"TC - Google - Search for Covid-19","time":{"start":1716217194823,"stop":1716217210451,"duration":15628},"status":"failed","severity":"normal"},{"uid":"efd80097c7c1b77","name":"TC - Bing - Search for Netflix","time":{"start":1716217215510,"stop":1716217232958,"duration":17448},"status":"failed","severity":"normal"}]
